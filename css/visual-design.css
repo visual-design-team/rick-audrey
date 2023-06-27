@@ -3,6 +3,43 @@ body {
     background-color: #E6E6E6;
 }
 
+h1 {
+    font-family: "Anton", sans-serif;
+    font-size: 65px;
+}
+
+h2 {
+    font-family: "Anton", sans-serif;
+    font-size: 40px;
+}
+
+.buttons {
+    box-shadow: none;
+}
+
+.b1 {
+    background-color: #E6563B;
+    padding: 25px 15px;
+    font-family: "Anton", sans-serif;
+}
+
+.b2 {
+    background-color: #EB9D3A;
+    padding: 25px 10px;
+    font-family: "Anton", sans-serif;
+}
+
+.b3 {
+    background-color: #7CB06C;
+    padding: 25px 10px;
+    font-family: "Anton", sans-serif;
+}
+
+.b4 {
+    background-color: #00ABA9;
+    padding: 25px 22px;
+    font-family: "Anton", sans-serif;
+}
 
 /*@media screen and (max-width: 500px) {*/
 /*    .alert-info {*/
