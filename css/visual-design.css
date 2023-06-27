@@ -6,8 +6,12 @@
 
 }
 
+.c-design {
+    /*min-width: 0;*/
+}
+
 .navbar-brand {
-    max-width: 3%;
+    max-width: 50px;
 }
 
 img {
@@ -31,6 +35,9 @@ h2 {
 
 .buttons {
     box-shadow: none;
+    flex-wrap: wrap;
+    width: 100%;
+    margin: 0 auto;
 }
 
 .b1 {
@@ -121,6 +128,8 @@ img.side-bar {
 .select-images {
     flex-basis: auto;
 }
+
+
 
 /*@media screen and (max-width: 500px) {*/
 /*    .alert-info {*/
