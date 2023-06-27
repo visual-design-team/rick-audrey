@@ -41,6 +41,10 @@ h2 {
     font-family: "Anton", sans-serif;
 }
 
+.container.hero{
+    border-color: #E6E6E6;
+}
+
 /*@media screen and (max-width: 500px) {*/
 /*    .alert-info {*/
 /*        font-size: 1em;*/
