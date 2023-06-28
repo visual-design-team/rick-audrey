@@ -35,9 +35,9 @@ h2 {
 
 .buttons {
     box-shadow: none;
-    flex-wrap: wrap;
     width: 100%;
     margin: 0 auto;
+    display: inline-block;
 }
 
 .b1 {
@@ -130,12 +130,11 @@ img.side-bar {
 }
 
 
-
-/*@media screen and (max-width: 500px) {*/
-/*    .alert-info {*/
-/*        font-size: 1em;*/
-/*        background-color: #CCFFFF;*/
-/*        border: 1px solid #CCC;*/
-/*        padding: 10px;*/
-/*        margin-top: 10px;*/
-/*    }*/
+@media screen and (max-width: 500px) {
+    .hero-button {
+        max-width: 300px;
+    }
+    hr {
+        display: none;
+    }
+}
