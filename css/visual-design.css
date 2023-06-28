@@ -137,4 +137,7 @@ img.side-bar {
     hr {
         display: none;
     }
+    .media-none {
+        display: none;
+    }
 }
