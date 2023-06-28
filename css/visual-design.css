@@ -6,9 +6,6 @@
 
 }
 
-.c-design {
-    /*min-width: 0;*/
-}
 
 .navbar-brand {
     max-width: 50px;
@@ -141,3 +138,5 @@ img.side-bar {
         display: none;
     }
 }
+
+
