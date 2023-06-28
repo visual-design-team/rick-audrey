@@ -11,10 +11,6 @@
     max-width: 50px;
 }
 
-img {
-    max-width: 100%;
-}
-
 body {
     font-family: "Abel", sans-serif;
     background-color: #E6E6E6;
@@ -115,6 +111,10 @@ span.d-flex {
 h3 {
     font-family: "Anton", sans-serif;
     font-size: 30px;
+}
+
+img {
+    max-width: 100%;
 }
 
 img.side-bar {
